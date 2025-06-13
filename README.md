@@ -1,1 +1,1 @@
-Here is an empty readme file
+Josh S- added his name to the readme file. That was the only change made.
